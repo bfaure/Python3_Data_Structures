@@ -1,5 +1,5 @@
 # Python3_Data_Structures
-Code from [Youtube Tutorial Series](https://www.youtube.com/playlist?list=PLEJyjB1oGzx3iTZvOVedkT8nZ2cG105U7). Each lesson begins by introducing the idea behind the data structure then, after explaining some basic concepts, moves over to coding the actual Python class. The code in this repository is all implemented in Python 3.
+Code from [Youtube Tutorial Series](https://www.youtube.com/playlist?list=PLEJyjB1oGzx3iTZvOVedkT8nZ2cG105U7). Each lesson begins by introducing the idea behind the data structure then, after explaining some basic concepts, moves over to coding the actual Python class. The code in this repository is all implemented in Python 3, for Python 2 see ['Python_Data_Structures'](https://github.com/bfaure/Python_Data_Structures).
 
 ## [AVL Tree (AVL_Tree)](https://www.youtube.com/watch?v=lxHF-mVdwK8)
 The AVL Tree is an improvement upon the traditional Binary Search Tree (BST) that implements an auto-balancing feature, with the hopes to keep tree operations closer to O(logn) rather than O(n). After insertions and deletions that cause the tree to become unbalanced, special functions are called to manage the situation by rebalancing any nodes they find to be unbalanced. If you don't have experience with traditional BSTs you should start with the tutorial covering those.
